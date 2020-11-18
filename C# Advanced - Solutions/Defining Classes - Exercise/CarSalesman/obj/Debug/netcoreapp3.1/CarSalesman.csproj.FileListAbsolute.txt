@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Defining Classes - Exercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Csharp Advanced Exam - 25 October 2020\New folder\obj\Debug\netcoreapp3.1\ClassroomProject.pdb

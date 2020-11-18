@@ -1,0 +1,10 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\bin\Debug\netcoreapp3.1\8. Bombs.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Exercise\8. Bombs\obj\Debug\netcoreapp3.1\8. Bombs.pdb

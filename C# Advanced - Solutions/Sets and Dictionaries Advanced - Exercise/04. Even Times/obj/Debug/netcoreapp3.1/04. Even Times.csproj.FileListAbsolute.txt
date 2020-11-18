@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.pdb

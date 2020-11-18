@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb

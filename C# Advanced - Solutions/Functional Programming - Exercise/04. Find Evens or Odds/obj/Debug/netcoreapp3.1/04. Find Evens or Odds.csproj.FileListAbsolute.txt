@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb

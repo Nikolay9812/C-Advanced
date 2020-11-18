@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.pdb

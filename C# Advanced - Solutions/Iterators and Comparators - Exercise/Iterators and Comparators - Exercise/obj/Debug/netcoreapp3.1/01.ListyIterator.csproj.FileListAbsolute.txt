@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\bin\Debug\netcoreapp3.1\01.ListyIterator.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\bin\Debug\netcoreapp3.1\01.ListyIterator.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\bin\Debug\netcoreapp3.1\01.ListyIterator.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\bin\Debug\netcoreapp3.1\01.ListyIterator.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\obj\Debug\netcoreapp3.1\01.ListyIterator.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\obj\Debug\netcoreapp3.1\01.ListyIterator.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Iterators and Comparators - Exercise\Iterators and Comparators - Exercise\obj\Debug\netcoreapp3.1\01.ListyIterator.pdb

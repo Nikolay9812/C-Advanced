@@ -1,0 +1,87 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Stack<int> males = new Stack<int>(Console.ReadLine()
+                .Split()
+                .Select(int.Parse));
+            Queue<int> females = new Queue<int>(Console.ReadLine()
+                .Split()
+                .Select(int.Parse));
+
+            int matching = 0;
+
+            while (males.Any() && females.Any())
+            {
+
+                int currentMales = males.Peek();
+                int currentFemales = females.Peek();
+
+                if (currentFemales <= 0)
+                {
+                    females.Dequeue();
+                    continue;
+
+                }
+                if (currentMales <= 0)
+                {
+                    males.Pop();
+                    continue;
+                }
+                if (currentMales % 25 == 0)
+                {
+                    males.Pop();
+                    males.Pop();
+                    continue;
+                }
+                if (currentFemales % 25 == 0)
+                {
+                    females.Dequeue();
+                    females.Dequeue();
+                    continue;
+                }
+
+                if (currentMales == currentFemales)
+                {
+                    matching++;
+                    males.Pop();
+                    females.Dequeue();
+                }
+                else
+                {
+                    females.Dequeue();
+                    males.Push(males.Pop() - 2);
+                }
+
+            }
+            
+            Console.WriteLine($"Matches: {matching}");
+
+            if (males.Any())
+            {
+                Console.WriteLine($"Males left: {string.Join(", ", males)}");
+            }
+            else
+            {
+                Console.WriteLine("Males left: none");
+            }
+
+            if (females.Any())
+            {
+                Console.WriteLine($"Females left: " + string.Join(", ", females));
+            }
+            else
+            {
+                Console.WriteLine("Females left: none");
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb

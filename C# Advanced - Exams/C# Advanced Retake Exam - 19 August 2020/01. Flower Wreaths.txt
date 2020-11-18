@@ -1,0 +1,86 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] liliesArray = Console.ReadLine()
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            int[] rosesArray = Console.ReadLine()
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            Stack<int> lilies = new Stack<int>(liliesArray);
+
+            Queue<int> roses = new Queue<int>(rosesArray);
+
+            int wreaths = 0;
+            int store = 0;
+
+            while (lilies.Count != 0 && roses.Count != 0)
+            {
+                int lilie = lilies.Peek();
+                int rose = roses.Peek();
+
+                if (lilie + rose == 15)
+                {
+                    wreaths++;
+                    lilies.Pop();
+                    roses.Dequeue();
+                }
+                else if (lilie + rose > 15)
+                {
+                    while (true)
+                    {
+                        lilie -= 2;
+                        if (lilie + rose == 15)
+                        {
+                            wreaths++;
+                            lilies.Pop();
+                            roses.Dequeue();
+                            break;
+                        }
+                        else if (lilie + rose < 15)
+                        {
+                            store += lilie + rose;
+                            lilies.Pop();
+                            roses.Dequeue();
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    store += lilie + rose;
+                    lilies.Pop();
+                    roses.Dequeue();
+                }
+            }
+            int storedWreaths = 0;
+            if (store >= 15)
+            {
+                storedWreaths = store / 15;
+            }
+
+            if (wreaths >= 5)
+            {
+                Console.WriteLine($"You made it, you are going to the competition with {wreaths + storedWreaths} wreaths!");
+            }
+            else
+            {
+                Console.WriteLine($"You didn't make it, you need {5 - (wreaths + storedWreaths)} wreaths more!");
+            }
+
+        }
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.pdb

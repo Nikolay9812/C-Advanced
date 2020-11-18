@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.pdb

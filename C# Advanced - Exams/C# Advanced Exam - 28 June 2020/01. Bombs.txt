@@ -1,0 +1,120 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] firstArray = Console.ReadLine()
+                .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            int[] secondArray = Console.ReadLine()
+                .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            Queue<int> bombEffects = new Queue<int>(firstArray);
+
+            Stack<int> bombCasing = new Stack<int>(secondArray);
+
+            int daturaBombs = 0;
+            int cherryBombs = 0;
+            int smokeDecoyBombs = 0;
+
+            while (bombEffects.Count != 0 && bombCasing.Count != 0)
+            {
+                int effect = bombEffects.Peek();
+                int casing = bombCasing.Peek();
+
+                if (effect + casing == 40)
+                {
+                    daturaBombs++;
+                    bombEffects.Dequeue();
+                    bombCasing.Pop();
+                }
+                else if (effect + casing == 60)
+                {
+                    cherryBombs++;
+                    bombEffects.Dequeue();
+                    bombCasing.Pop();
+                }
+                else if (effect + casing == 120)
+                {
+                    smokeDecoyBombs++;
+                    bombEffects.Dequeue();
+                    bombCasing.Pop();
+                }
+                else
+                {
+                    while (true)
+                    {
+                        casing -= 5;
+
+                        if (effect + casing == 40)
+                        {
+                            daturaBombs++;
+                            bombEffects.Dequeue();
+                            bombCasing.Pop();
+                            break;
+                        }
+                        else if (effect + casing == 60)
+                        {
+                            cherryBombs++;
+                            bombEffects.Dequeue();
+                            bombCasing.Pop();
+                            break;
+                        }
+                        else if (effect + casing == 120)
+                        {
+                            smokeDecoyBombs++;
+                            bombEffects.Dequeue();
+                            bombCasing.Pop();
+                            break;
+                        }
+                    }
+                }
+                if (daturaBombs >= 3 && cherryBombs >= 3 && smokeDecoyBombs >= 3)
+                {
+                    break;
+                }
+            }
+
+            if (daturaBombs >= 3 && cherryBombs >= 3 && smokeDecoyBombs >= 3)
+            {
+                Console.WriteLine("Bene! You have successfully filled the bomb pouch!");
+            }
+            else
+            {
+                Console.WriteLine("You don't have enough materials to fill the bomb pouch.");
+            }
+
+            if (bombEffects.Count == 0)
+            {
+                Console.WriteLine("Bomb Effects: empty");
+            }
+            else
+            {
+                Console.WriteLine($"Bomb Effects: {string.Join(", ", bombEffects)}");
+            }
+            if (bombCasing.Count == 0)
+            {
+                Console.WriteLine("Bomb Casings: empty");
+            }
+            else
+            {
+                Console.WriteLine($"Bomb Casings: {string.Join(", ", bombCasing)}");
+            }
+
+            Console.WriteLine($"Cherry Bombs: {cherryBombs}");
+            Console.WriteLine($"Datura Bombs: {daturaBombs}");
+            Console.WriteLine($"Smoke Decoy Bombs: {smokeDecoyBombs}");
+        }
+    }
+}

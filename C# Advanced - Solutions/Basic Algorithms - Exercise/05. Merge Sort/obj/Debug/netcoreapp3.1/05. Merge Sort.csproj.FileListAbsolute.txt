@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\bin\Debug\netcoreapp3.1\05. Merge Sort.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\bin\Debug\netcoreapp3.1\05. Merge Sort.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\bin\Debug\netcoreapp3.1\05. Merge Sort.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\bin\Debug\netcoreapp3.1\05. Merge Sort.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\bin\Debug\netcoreapp3.1\05. Merge Sort.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\bin\Debug\netcoreapp3.1\05. Merge Sort.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\obj\Debug\netcoreapp3.1\05. Merge Sort.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\obj\Debug\netcoreapp3.1\05. Merge Sort.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\obj\Debug\netcoreapp3.1\05. Merge Sort.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\obj\Debug\netcoreapp3.1\05. Merge Sort.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Basic Algorithms - Exercise\05. Merge Sort\obj\Debug\netcoreapp3.1\05. Merge Sort.pdb

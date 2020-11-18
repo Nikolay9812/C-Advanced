@@ -1,0 +1,156 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            char[] temp = Console.ReadLine().ToCharArray();
+
+            Stack<char> word = new Stack<char>(temp);
+
+            int size = int.Parse(Console.ReadLine());
+
+            char[,] field = new char[size, size];
+
+            int pRow = 0;
+            int pCol = 0;
+
+            ReadMatrix(size, field, ref pRow, ref pCol);
+
+            string command;
+
+            while ((command = Console.ReadLine()) != "end")
+            {
+                if (command == "up")
+                {
+                    if (pRow - 1 >= 0)
+                    {
+                        pRow--;
+
+                        char symbol = field[pRow, pCol];
+
+                        Symbol(word, symbol);
+
+                        field[pRow, pCol] = 'P';
+                        field[pRow + 1, pCol] = '-';
+                    }
+                    else
+                    {
+                        Fail(word);
+                    }
+                }
+                else if (command == "down")
+                {
+                    if (pRow + 1 < field.GetLength(0))
+                    {
+                        pRow++;
+
+                        char symbol = field[pRow, pCol];
+
+                        Symbol(word, symbol);
+
+                        field[pRow, pCol] = 'P';
+                        field[pRow - 1, pCol] = '-';
+                    }
+                    else
+                    {
+                        Fail(word);
+                    }
+                }
+                else if (command == "left")
+                {
+                    if (pCol - 1 >= 0)
+                    {
+                        pCol--;
+
+                        char symbol = field[pRow, pCol];
+
+                        Symbol(word, symbol);
+
+                        field[pRow, pCol] = 'P';
+                        field[pRow, pCol + 1] = '-';
+                    }
+                    else
+                    {
+                        Fail(word);
+                    }
+                }
+                else if (command == "right")
+                {
+                    if (pCol + 1 < field.GetLength(1))
+                    {
+                        pCol++;
+
+                        char symbol = field[pRow, pCol];
+
+                        Symbol(word, symbol);
+
+                        field[pRow, pCol] = 'P';
+                        field[pRow, pCol - 1] = '-';
+                    }
+                    else
+                    {
+                        Fail(word);
+                    }
+                }
+            }
+
+            Console.WriteLine(string.Join("", word.Reverse()));
+
+            PrintMatrix(field);
+        }
+
+        private static void PrintMatrix(char[,] field)
+        {
+            for (int row = 0; row < field.GetLength(0); row++)
+            {
+                for (int col = 0; col < field.GetLength(1); col++)
+                {
+                    Console.Write(field[row, col]);
+                }
+                Console.WriteLine();
+            }
+        }
+
+        private static void ReadMatrix(int size, char[,] field, ref int pRow, ref int pCol)
+        {
+            for (int row = 0; row < size; row++)
+            {
+                char[] currRow = Console.ReadLine().ToCharArray();
+
+                for (int col = 0; col < size; col++)
+                {
+                    field[row, col] = currRow[col];
+
+                    if (currRow[col] == 'P')
+                    {
+                        pRow = row;
+                        pCol = col;
+                    }
+                }
+            }
+        }
+
+        private static void Fail(Stack<char> word)
+        {
+            if (word.Count > 0)
+            {
+                word.Pop();
+            }
+        }
+
+        private static void Symbol(Stack<char> word, char symbol)
+        {
+            if (char.IsLetter(symbol))
+            {
+                word.Push(symbol);
+            }
+        }
+    }
+}

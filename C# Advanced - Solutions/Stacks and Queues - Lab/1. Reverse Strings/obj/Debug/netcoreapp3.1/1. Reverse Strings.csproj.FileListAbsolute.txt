@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.pdb

@@ -1,0 +1,72 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] firstArray = Console.ReadLine()
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            int[] secondArray = Console.ReadLine()
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            Queue<int> firstLootBox = new Queue<int>(firstArray);
+
+            Stack<int> secondLootBox = new Stack<int>(secondArray);
+
+            int sum = 0;
+
+            while (true)
+            {
+                int queueNumber = firstLootBox.Peek();
+                int stackNumber = secondLootBox.Peek();
+
+                int number = queueNumber + stackNumber;
+
+                if (number % 2 == 0)
+                {
+                    sum += number;
+                    firstLootBox.Dequeue();
+                    secondLootBox.Pop();
+                }
+                else
+                {
+                    firstLootBox.Enqueue(stackNumber);
+                    secondLootBox.Pop();
+                }
+                if (firstLootBox.Count == 0 || secondLootBox.Count == 0)
+                {
+                    break;
+                }
+            }
+
+            if (firstLootBox.Count != 0)
+            {
+                Console.WriteLine("Second lootbox is empty");
+            }
+            if (secondLootBox.Count != 0)
+            {
+                Console.WriteLine("First lootbox is empty");
+            }
+
+            if (sum >= 100)
+            {
+                Console.WriteLine($"Your loot was epic! Value: {sum}");
+            }
+            else
+            {
+                Console.WriteLine($"Your loot was poor... Value: {sum}");
+            }
+        }
+    }
+}
